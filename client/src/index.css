@@ -75,3 +75,29 @@ body {
   color: red;
   text-align: center;
 }
+
+#updateMovie{
+  width:40%;
+  margin: 0 auto;
+}
+#updateMovieTitle{
+  text-align: center;
+}
+input{
+  width:100%;
+ margin:0 auto;
+ font-size: 1.2rem;
+}
+.form-button{
+  text-align: center;
+  width: 30%;
+  margin: 1rem auto;
+  padding: 1rem;
+  font-size:1.2rem;
+}
+form{
+  text-align:center;
+}
+button{
+  margin-left: 1rem;
+}
